@@ -34,7 +34,7 @@
 ### YouTube
 - [Dapp University](https://www.youtube.com/c/DappUniversity)
 
-Ethereum
+### Ethereum
 - [Ethereum Improvement Proposals
 ](https://eips.ethereum.org/)
 - [Vitalk's Blog](https://vitalik.ca/)
