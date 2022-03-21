@@ -11,7 +11,7 @@
 
 - [Crypto Zombies](https://cryptozombies.io/), short interactive Solidity programming course
 - [PetShop](https://trufflesuite.com/tutorial/index.html), blockchain run pet store tutorial
-- [Original Uniswap Contract](https://github.com/Uniswap/old-solidity-contracts/blob/master/contracts/Exchange/UniswapExchange.sol), less tahn 300 LOC!
+- [Original Uniswap Contract](https://github.com/Uniswap/old-solidity-contracts/blob/master/contracts/Exchange/UniswapExchange.sol), less than 300 LOC!
 
 ### Dev Tooling
 
