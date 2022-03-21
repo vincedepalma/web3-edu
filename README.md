@@ -24,9 +24,10 @@
 - [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity), Solidity syntax highlighter
 
 
-### Blockchain RPC Providers
-- [Infura](https://infura.io/), Consensys
-- [Alchemy](https://www.alchemy.com/), nice forking features
+### Blockchain Data Providers
+- [Infura](https://infura.io/), Ethereum RPC API, Consensys
+- [Alchemy](https://www.alchemy.com/), Ethereum RPC API, nice forking features
+- [The Graph](https://thegraph.com/), GraphQL contract data
 
 ### Cryptography
 - [Cryptography I](https://www.coursera.org/learn/crypto), Stanford Course Certificate
