@@ -12,6 +12,7 @@
 - [Crypto Zombies](https://cryptozombies.io/), short interactive Solidity programming course
 - [PetShop](https://trufflesuite.com/tutorial/index.html), blockchain run pet store tutorial
 - [Original Uniswap Contract](https://github.com/Uniswap/old-solidity-contracts/blob/master/contracts/Exchange/UniswapExchange.sol), less than 300 LOC!
+- [Open Zeppelin](https://openzeppelin.com/), open source, audited, smart contract building blocks
 
 ### Dev Tooling
 
