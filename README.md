@@ -37,5 +37,5 @@
 
 ### Ethereum
 - [Ethereum Improvement Proposals
-](https://eips.ethereum.org/)
+](https://eips.ethereum.org/), upcoming and proposed changes to Ethereum network standards
 - [Vitalk's Blog](https://vitalik.ca/)
