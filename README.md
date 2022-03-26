@@ -16,6 +16,7 @@
 
 ### Dev Tooling
 
+- [Scaffold ETH](https://github.com/scaffold-eth/scaffold-eth), boilerplate dev setup
 - [Hardhat](https://hardhat.org/), build, testing and dev framework
 - [Truffle](https://trufflesuite.com/) build, testing and dev framework
 
