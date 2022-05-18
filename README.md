@@ -41,3 +41,6 @@
 - [Ethereum Improvement Proposals
 ](https://eips.ethereum.org/), upcoming and proposed changes to Ethereum network standards
 - [Vitalk's Blog](https://vitalik.ca/)
+
+### Additional Lists
+- [useweb3.xyz](https://www.useweb3.xyz/)
