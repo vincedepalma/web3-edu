@@ -19,6 +19,7 @@
 - [Scaffold ETH](https://github.com/scaffold-eth/scaffold-eth), boilerplate dev setup
 - [Hardhat](https://hardhat.org/), build, testing and dev framework
 - [Truffle](https://trufflesuite.com/) build, testing and dev framework
+- [Foundry](https://github.com/foundry-rs/foundry) is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
 ### Dev Environments
 
